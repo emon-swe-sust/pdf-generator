@@ -1,0 +1,30 @@
+{
+  "name": "pdf-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@accusoft/document-processing-helper": "^1.0.0-beta.10",
+    "@ironsoftware/ironpdf": "^2023.11.2",
+    "cloudmersive-convert-api-client": "^2.7.4",
+    "convertapi": "^1.13.0",
+    "html-pdf": "^3.0.1",
+    "html-pdf-node": "^1.0.8",
+    "html-to-image": "^1.11.11",
+    "jspdf": "^2.5.1",
+    "node-html-to-image": "^4.0.0",
+    "pdf-merger-js": "^4.3.0",
+    "pdf-puppeteer": "^1.1.11",
+    "pdf2pic": "^3.1.0",
+    "pdfkit": "^0.13.0",
+    "promisify-child-process": "^4.1.2",
+    "puppeteer": "^21.1.1",
+    "puppeteer-core": "^21.5.0"
+  }
+}
